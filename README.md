@@ -22,5 +22,3 @@
 </div>
 
 ---
-
-*email* -> northern.walcy@gmail.com
