@@ -14,7 +14,7 @@
 [00:00:00] [Server thread/SUCCESS]: ✅ /stealth_mode on → ℝ𝔼𝔻𝔸ℂ𝕋𝔼𝔻 ABILITY ACTIVATED
 [00:00:01] [Server thread/INFO]: Fun Fact: 0 repos visible... the entire cosmic empire is still loading
 [00:00:02] [Server thread/INFO]: Fun Fact: Cat invaders detected — they keep increasing the visitor count 🐱
-[00:00:03] [Server thread/INFO]: Fun Fact: Current biome: ᖇEᗪᗩᑕTEᗪ Coffee + Infinite Creativity
+[00:00:03] [Server thread/INFO]: Fun Fact: Current strategy: ᖇEᗪᗩᑕTEᗪ Coffee + Infinite Creativity
 [00:00:03] [Server thread/INFO]: Fun Fact : Next launch: will be ████████
 [00:00:04] [Fabric Server/INFO]: Server ready. 👽
 ```
