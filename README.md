@@ -15,7 +15,7 @@
 [00:00:01] [Server thread/INFO]: Fun Fact: 2 repos visible... the entire codebase is still loading
 [00:00:02] [Server thread/INFO]: Fun Fact: Cat invaders detected — they keep increasing the visitor count 🐱
 [00:00:03] [Server thread/INFO]: Current strategy: Coffee + Infinite Creativity
-[00:00:03] [Server thread/INFO]: Next launch: will be ████████
+[00:00:03] [Server thread/INFO]: Next commit: will be ████████
 [00:00:04] [Fabric Server/INFO]: Server ready. 👽
 ```
 
