@@ -17,7 +17,7 @@
   </g>
 
   <g clip-path="url(#l2)">
-    <text x="20" y="88" font-size="11" xml:space="preserve"><tspan fill="#808080">[00:00:01]</tspan><tspan fill="#4ec9b0"> [Server thread/INFO]:</tspan><tspan fill="#dcdcdc"> Codebase is still processing, only some repos are visible</tspan></text>
+    <text x="20" y="88" font-size="11" xml:space="preserve"><tspan fill="#808080">[00:00:01]</tspan><tspan fill="#4ec9b0"> [Server thread/INFO]:</tspan><tspan fill="#dcdcdc"> Codebase is still processing, some repos are invisible</tspan></text>
   </g>
 
   <g clip-path="url(#l3)">
