@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect width="640" height="360" fill="#0d1117"/>
+<text x="320" y="55" text-anchor="middle" xml:space="preserve" font-size="15" fill="#ffffff">    _    _ _               _____     _____           _   _     </text>
+<text x="320" y="74" text-anchor="middle" xml:space="preserve" font-size="15" fill="#ffffff">   / \  | (_) ___ _ __  __|_   _|__ | ____|__ _ _ __| |_| |__  </text>
+<text x="320" y="93" text-anchor="middle" xml:space="preserve" font-size="15" fill="#ffffff">  / _ \ | | |/ _ \ '_ \/ __|| |/ _ \|  _| / _` | '__| __| '_ \ </text>
+<text x="320" y="112" text-anchor="middle" xml:space="preserve" font-size="15" fill="#ffffff"> / ___ \| | |  __/ | | \__ \| | (_) | |__| (_| | |  | |_| | | |</text>
+<text x="320" y="131" text-anchor="middle" xml:space="preserve" font-size="15" fill="#ffffff">/_/   \_\_|_|\___|_| |_|___/|_|\___/|_____\__,_|_|   \__|_| |_|</text>
+<g opacity="0">
+<text x="320" y="195" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  .-------.  </text>
+<text x="320" y="215" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> /         \ </text>
+<text x="320" y="235" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">(    (O)    )</text>
+<text x="320" y="255" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> \         / </text>
+<text x="320" y="275" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  '-------'  </text>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.1900;0.2000;1" dur="7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0">
+<text x="320" y="195" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  .-------.  </text>
+<text x="320" y="215" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> /         \ </text>
+<text x="320" y="235" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">( (O)       )</text>
+<text x="320" y="255" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> \         / </text>
+<text x="320" y="275" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  '-------'  </text>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2000;0.2100;0.3614;0.3714;1" dur="7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0">
+<text x="320" y="195" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  .-------.  </text>
+<text x="320" y="215" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> /         \ </text>
+<text x="320" y="235" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">(    (O)    )</text>
+<text x="320" y="255" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> \         / </text>
+<text x="320" y="275" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  '-------'  </text>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3714;0.3814;0.5043;0.5143;1" dur="7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0">
+<text x="320" y="195" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  .-------.  </text>
+<text x="320" y="215" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> /         \ </text>
+<text x="320" y="235" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">(       (O) )</text>
+<text x="320" y="255" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> \         / </text>
+<text x="320" y="275" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  '-------'  </text>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5143;0.5243;0.6757;0.6857;1" dur="7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0">
+<text x="320" y="195" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  .-------.  </text>
+<text x="320" y="215" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> /         \ </text>
+<text x="320" y="235" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">(    (O)    )</text>
+<text x="320" y="255" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> \         / </text>
+<text x="320" y="275" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  '-------'  </text>
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6857;0.6957;0.9043;0.9143;1" dur="7s" repeatCount="indefinite"/>
+</g>
+<g opacity="0">
+<text x="320" y="195" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  .-------.  </text>
+<text x="320" y="215" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> /         \ </text>
+<text x="320" y="235" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">(  -------  )</text>
+<text x="320" y="255" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff"> \         / </text>
+<text x="320" y="275" text-anchor="middle" xml:space="preserve" font-size="17" fill="#ffffff">  '-------'  </text>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.9143;0.9243;1" dur="7s" repeatCount="indefinite"/>
+</g>
+</svg>
